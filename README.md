@@ -1,5 +1,5 @@
 # Newsletter-Mailchimp
-It is a newsletter signup page deployed in online server using heroku.
+It is a newsletter signup page deployed in online server using heroku. Hope you like it.
 
 
 ## Note:
